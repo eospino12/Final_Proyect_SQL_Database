@@ -35,15 +35,6 @@ Frontend Visualization
 
 A frontend interface was additionally created using AGY to visualize and interact with the processed analytical data generated from the SQL queries.
 
-Project Structure
-.
-├── mod5_final_project.ipynb
-├── FinalDB.db
-├── ChicagoCensusData.csv
-├── ChicagoPublicSchools.csv
-└── ChicagoCrimeData.csv
-Learning Outcomes
-
 Through this project, the following concepts were reinforced:
 
 SQL query design
