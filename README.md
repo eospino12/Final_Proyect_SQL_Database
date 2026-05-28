@@ -33,8 +33,11 @@ Community area analysis using subqueries and aggregate functions.
 Educational project demonstrating practical database querying skills.
 Frontend Visualization
 
-A frontend interface was additionally created using AGY to visualize and interact with the processed analytical data generated from the SQL queries.
-
+### 🖥️ Interactive Interface
+A frontend dashboard was developed using **Antigravity (AGY)**. This allows users to:
+*   **Visualize** processed analytical data directly from SQL queries.
+*   **Interact** with crime statistics and census trends through a web-based interface.
+*   **Bridge the gap** between backend database management and data storytelling.
 Through this project, the following concepts were reinforced:
 
 SQL query design
