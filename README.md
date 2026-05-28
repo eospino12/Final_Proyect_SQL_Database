@@ -38,7 +38,6 @@ A frontend dashboard was developed using **Antigravity (AGY)**. This allows user
 *   **Visualize** processed analytical data directly from SQL queries.
 *   **Interact** with crime statistics and census trends through a web-based interface.
 *   **Bridge the gap** between backend database management and data storytelling.
-Through this project, the following concepts were reinforced:
 
 SQL query design
 Database manipulation
