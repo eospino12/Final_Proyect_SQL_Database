@@ -15,23 +15,23 @@ grouping,
 ordering,
 joins and data exploration.
 
-### 📊 Datasets Used
+### Datasets Used
 * **Chicago Census Data:** Socioeconomic indicators by community area.
 * **Chicago Public Schools Data:** Information on school performance and safety.
 * **Chicago Crime Data:** Records of reported crimes in the city.
 
-### 🛠️ Technologies Used
+### Technologies Used
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, SQLite3
 * **Tools:** Jupyter Notebook, Antigravity (AGY)
 
-### 🖥️ Interactive Interface
+### Interactive Interface
 A frontend dashboard was developed using **Antigravity (AGY)**. This allows users to:
 * **Visualize** processed analytical data directly from SQL queries.
 * **Interact** with crime statistics and census trends through a web-based interface.
 * **Bridge the gap** between backend database management and data storytelling.
 
-### 💡 Key Concepts Reinforced
+### Key Concepts Reinforced
 * **SQL Query Design:** Advanced filtering, joins, and subqueries.
 * **Database Manipulation:** Creating and managing SQLite tables.
 * **Data Ingestion:** Automated workflows using Python and Pandas.
